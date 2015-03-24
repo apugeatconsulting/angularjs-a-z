@@ -1,2 +1,2 @@
-# angularjs-a-z
-AngularJS A-Z
+# AngularJS A-Z
+
